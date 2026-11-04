@@ -2,6 +2,7 @@
 
 ROMANIC-MAP is an interactive map of the pharmaceutical industry, drawn in the style of a fantasy game world. Instead of kingdoms and battlefields, it charts the real landscape of drug development: who is developing what, for which disease, and how far each drug has come.
 https://breakegg.github.io/romanic-map/
+<img width="2644" height="1132" alt="image" src="https://github.com/user-attachments/assets/47170fbd-aa6f-4326-98a0-499aa75ff614" />
 
 ## The continent
 
