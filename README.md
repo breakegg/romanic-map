@@ -3,7 +3,7 @@
 ROMANIC-MAP is an interactive map of the pharmaceutical industry, drawn in the style of a fantasy game world. Instead of kingdoms and battlefields, it charts the real landscape of drug development: who is developing what, for which disease, and how far each drug has come.
 https://breakegg.github.io/romanic-map/
 
-<img width="2686" height="1400" alt="image" src="https://github.com/user-attachments/assets/e20f77f1-b22d-4f19-9db6-9747098e8b53" />
+<img width="3405" height="1655" alt="image" src="https://github.com/user-attachments/assets/fc811c77-1832-40f1-93ff-2426224f18d0" />
 
 ## The continent
 
@@ -41,7 +41,7 @@ Please send comments or suggestions to: breakeggg@gmail.com
 
 线上访问：https://breakegg.github.io/romanic-map/
 
-<img width="2686" height="1345" alt="image" src="https://github.com/user-attachments/assets/2b7eb7d8-555a-451a-8188-2caf3b149439" />
+<img width="3393" height="1648" alt="image" src="https://github.com/user-attachments/assets/6d88210e-4eab-457b-80d5-11347131ae01" />
 
 ## 为什么是 ROMANIC 大陆？
 
